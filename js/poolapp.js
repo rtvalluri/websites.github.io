@@ -191,6 +191,9 @@ app.controller("MainController", function($scope) {
         },{
             name: "Learn AngularJS with Practice",
             href: "http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro"
+        },{
+            name: "Angular JS by Todd",
+            href: "https://toddmotto.com/"
         }]
     }, {
         title: "JS Unit Testing",
